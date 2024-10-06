@@ -1,0 +1,2 @@
+[10072:3872:1006/144134.096:VERBOSE1:installer.cc(383)] "D:\flowers\assets\imges\ChromeSetup.exe" --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={24079915-D366-94E3-3A56-6226FCDF12A9}&lang=en&browser=4&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=x64-statsdef_1&installdataindex=empty --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/updater/*=2
+[10072:3872:1006/144144.453:VERBOSE1:installer.cc(488)] Metainstaller WMain returned: 73500, Windows error: 0
